@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.borbi.borbi",
+      "sha256_cert_fingerprints": ["67:E3:E8:9B:17:9B:1D:CA:11:0B:1B:46:98:7A:42:53:D5:16:66:56:81:53:96:FC:87:96:10:A9:AA:CA:10:64"]
+    }
+  }
+]
